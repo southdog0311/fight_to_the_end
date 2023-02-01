@@ -1,0 +1,18 @@
+D:\C#\C#-視窗設計\Fight_til_the_End\bin\Debug\Fight_til_the_End.exe.config
+D:\C#\C#-視窗設計\Fight_til_the_End\bin\Debug\Fight_til_the_End.exe
+D:\C#\C#-視窗設計\Fight_til_the_End\bin\Debug\Fight_til_the_End.pdb
+D:\C#\C#-視窗設計\Fight_til_the_End\obj\Debug\Fight_til_the_End.csprojAssemblyReference.cache
+D:\C#\C#-視窗設計\Fight_til_the_End\obj\Debug\Fight_til_the_End.Main.resources
+D:\C#\C#-視窗設計\Fight_til_the_End\obj\Debug\Fight_til_the_End.Menu.resources
+D:\C#\C#-視窗設計\Fight_til_the_End\obj\Debug\Fight_til_the_End.Properties.Resources.resources
+D:\C#\C#-視窗設計\Fight_til_the_End\obj\Debug\Fight_til_the_End.csproj.GenerateResource.cache
+D:\C#\C#-視窗設計\Fight_til_the_End\obj\Debug\Fight_til_the_End.csproj.CoreCompileInputs.cache
+D:\C#\C#-視窗設計\Fight_til_the_End\obj\Debug\Fight_til_the_End.exe
+D:\C#\C#-視窗設計\Fight_til_the_End\obj\Debug\Fight_til_the_End.pdb
+D:\C#\C#-視窗設計\Fight_til_the_End\obj\Debug\Interop.WMPLib.dll
+D:\C#\C#-視窗設計\Fight_til_the_End\obj\Debug\Fight_til_the_End.csproj.ResolveComReference.cache
+C:\Users\sam22\OneDrive\桌面\Fight_till_the_End-main (6)\Fight_till_the_End-main\obj\Debug\Fight_til_the_End.csproj.AssemblyReference.cache
+C:\Users\sam22\OneDrive\桌面\Fight_till_the_End-main (6)\Fight_till_the_End-main\obj\Debug\Interop.WMPLib.dll
+C:\Users\sam22\OneDrive\桌面\Fight_till_the_End-main (6)\Fight_till_the_End-main\obj\Debug\Fight_til_the_End.csproj.ResolveComReference.cache
+C:\Users\sam22\OneDrive\桌面\Fight_till_the_End-main (6)\Fight_till_the_End-main\obj\Debug\Fight_til_the_End.exe
+C:\Users\sam22\OneDrive\桌面\Fight_till_the_End-main (6)\Fight_till_the_End-main\obj\Debug\Fight_til_the_End.pdb
